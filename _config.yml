@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://amgreenlee.github.io
+title: stridePRO
+tagline: Human motion analysis
+description: We'll see
+paginate: 5
